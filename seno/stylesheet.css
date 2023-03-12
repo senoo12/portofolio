@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  scroll-behavior: smooth;
+  background-color: #06181f;
+}
+.mail {
+  margin-left: 270px;
+  margin-bottom: 20px;
+}
+
+.mail .bx {
+  margin-top: 8px;
+}
+
+.container {
+  margin-top: 110px;
+  color: white;
+}
+
+h4 {
+  font-size: 24px;
+}
+
+.container,
+p {
+  font-size: 14px;
+}
+
+.container1 {
+  background-color: aliceblue;
+  color: #06181f;
+  margin-top: 70px;
+}
